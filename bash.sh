@@ -1,5 +1,9 @@
+# First steps
 sudo apt update
 sudo apt upgrade
+sudo apt install htop
+sudo apt install mc
+
 # Install Nginx
 sudo bash -c 'cat > /etc/apt/sources.list.d/nginx.list << EOL
 deb http://nginx.org/packages/ubuntu/ xenial nginx
