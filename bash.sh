@@ -1,8 +1,8 @@
 # First steps
-sudo apt update
-sudo apt upgrade
-sudo apt install htop
-sudo apt install mc
+sudo apt-get update
+sudo apt-get upgrade
+sudo apt-get install htop
+sudo apt-get install mc
 
 # Install Nginx
 sudo apt-get update
