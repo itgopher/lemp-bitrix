@@ -1,3 +1,5 @@
+sudo apt update
+sudo apt upgrade
 # Install Nginx
 sudo bash -c 'cat > /etc/apt/sources.list.d/nginx.list << EOL
 deb http://nginx.org/packages/ubuntu/ xenial nginx
