@@ -16,8 +16,6 @@ sudo service mysql start
 sudo mysql_secure_installation
 
 # Install PHP 7.4
-sudo add-apt-repository ppa:ondrej/php
-sudo apt-get update
 sudo apt-get install php
 
 # Install needed modules for PHP
